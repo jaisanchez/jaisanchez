@@ -50,7 +50,7 @@ Enfocado en el aprendizaje continuo y la mejora constante como profesional del s
 ## 📌 Proyectos destacados
 
 ### 💼 Gestión de Nóminas — JavaFX
-Aplicación de escritorio desarrollada como proyecto formativo para la gestión de empleados y el cálculo de nóminas, conectada a base de datos.
+Aplicación de escritorio desarrollada como proyecto formativo para el cálculo y gestión de nóminas, conectada a base de datos.
 
 **Tecnologías:** Java · JavaFX · MySQL · JDBC  
 **Rol:** Desarrollo de lógica y interfaz  
