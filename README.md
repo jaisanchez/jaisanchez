@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jairo Sánchez
 
-Desarrollador **Junior con perfil Full-Stack**, con formación en **DAM y DAW**, experiencia inicial en la creación de aplicaciones **web y de escritorio**, y mayor afinidad por el **backend con Java y Spring Boot**.
+Desarrollador con **perfil Full-Stack**, formado en **DAM y DAW**, con experiencia inicial en la creación de aplicaciones **web y de escritorio**, y mayor afinidad por el **backend con Java y Spring Boot**.
 
 ---
 
