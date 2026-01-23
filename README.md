@@ -93,7 +93,7 @@ Aplicación web para la creación de **dietas personalizadas**, cálculo de calo
 
 ## 📫 Contacto
 
-- 📧 Email: jairo123_@hotmail.com
+- 📧 Email: sanchezjairo.it@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/jairo-sanchez-ballesteros
 
 ---
